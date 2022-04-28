@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Marco Antonio 🤙
+### Olá! Eu sou o Marcos 🤙
 
 Sou aluno de Analise de Desenvolvimento e Sistemas!!!<br>
 <STRONG>Estudando</strong>: HTML5 | CSS3 | JAVASCRIPT & SQL
