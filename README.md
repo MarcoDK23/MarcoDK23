@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Marco Almeida 🤙
 
 Analista de Sistemas!!!<br>
-<STRONG>Estudando</strong>: HTML5 | CSS3 | JAVASCRIPT & SQL
+<STRONG>Estudando</strong>: JAVASCRIPT | NODE.JS & SQL
 
 ### CONTATOS:
 
