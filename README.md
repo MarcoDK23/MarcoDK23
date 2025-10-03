@@ -1,8 +1,8 @@
 
 ### Olá! Eu sou o Marco Almeida 🤙
 
-Analista de Sistemas!!!<br>
-<STRONG>Estudando</strong>: JAVASCRIPT | NODE.JS & SQL
+Analista de Infraestrutura!!!<br>
+<STRONG>Estudando</strong>: DevOps |
 
 ### CONTATOS:
 
